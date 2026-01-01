@@ -33,7 +33,7 @@ Me enfoco en el desarrollo de software bajo **arquitecturas limpias** y un flujo
 #### 🚛 [App de Logística y Fletes](https://github.com/garin25/Logistica)
 * **Stack:** React, TypeScript, Node.js, PostgreSQL, Material UI.
 * **Resumen:** Gestión integral de servicios de flete con tracking y despliegue en producción.
-* 🔗 **[Ver App en Vivo](https://fletes-1kjn3ojst-garinchristian4-2968s-projects.vercel.app/)**
+* 🔗 **[Ver App en Vivo](https://fletes-rllf5a832-garinchristian4-2968s-projects.vercel.app/)**
 
 #### 📦 [Plataforma de Seguimiento - Taller Web](https://github.com/garin25/TallerWeb1-Grupo2-TM)
 * **Stack:** Java, Spring MVC, Hibernate, JUnit, Mockito.
