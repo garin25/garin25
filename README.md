@@ -42,7 +42,7 @@ Me enfoco en el desarrollo de software bajo **arquitecturas limpias** y un flujo
 ---
 
 ### 📫 Contacto
-* **LinkedIn:** [linkedin.com/in/tu-usuario](https://www.linkedin.com/in/christian-garin-a68662265/)
+* **LinkedIn:** [linkedin.com/in/christian-garin](https://www.linkedin.com/in/christian-garin-a68662265/)
 * **Email:** garinchris3@gmail.com
 
 ---
