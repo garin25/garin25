@@ -30,14 +30,18 @@ Me enfoco en el desarrollo de software bajo **arquitecturas limpias** y un flujo
 
 ### 📂 Proyectos Destacados
 
+#### 🟢 [ChatApp] (Full Stack)
+*Sistema de mensajería en tiempo real similar a WhatsApp Web.*
+- **El Reto:** Construir un sistema de WebSockets desde cero con Spring Boot y gestionar la concurrencia en React.
+- **Tech:** React, TypeScript, Java Spring Boot, PostgreSQL, Docker.
+- **Lo más desafiante:** Implementé lógica de "Escribiendo..." y detección de presencia en tiempo real optimizada para no saturar la base de datos.
+- [🔗 Ver Código](https://github.com/garin25/Chat) | [🌍 Ver Demo](https://github.com/user-attachments/assets/b8dcc201-bb7e-44f7-a6e2-20cf905c134d) | [Ver App en Vivo](https://wsp-ten.vercel.app/wsp/login)
+- 
 #### 🚛 [App de Logística y Fletes](https://github.com/garin25/Logistica)
 * **Stack:** React, TypeScript, Node.js, PostgreSQL, Material UI.
 * **Resumen:** Gestión integral de servicios de flete con tracking y despliegue en producción.
 * 🔗 **[Ver App en Vivo](https://fletes-rllf5a832-garinchristian4-2968s-projects.vercel.app/)**
 
-#### 📦 [Plataforma de Seguimiento - Taller Web](https://github.com/garin25/TallerWeb1-Grupo2-TM)
-* **Stack:** Java, Spring MVC, Hibernate, JUnit, Mockito.
-* **Resumen:** Sistema de envíos con fuerte enfoque en **testing unitario** y lógica de negocio compleja.
 
 ---
 
