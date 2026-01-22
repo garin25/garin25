@@ -36,7 +36,9 @@ Me enfoco en el desarrollo de software bajo **arquitecturas limpias** y un flujo
 - **Tech:** React, TypeScript, Java Spring Boot, PostgreSQL, Docker.
 - **Lo más desafiante:** Implementé lógica de "Escribiendo..." y detección de presencia en tiempo real optimizada para no saturar la base de datos.
 - [🔗 Ver Código](https://github.com/garin25/Chat) | [🌍 Ver Demo](https://github.com/user-attachments/assets/b8dcc201-bb7e-44f7-a6e2-20cf905c134d) | [Ver App en Vivo](https://wsp-ten.vercel.app/wsp/login)
-- 
+  
+---
+
 #### 🚛 [App de Logística y Fletes](https://github.com/garin25/Logistica)
 * **Stack:** React, TypeScript, Node.js, PostgreSQL, Material UI.
 * **Resumen:** Gestión integral de servicios de flete con tracking y despliegue en producción.
